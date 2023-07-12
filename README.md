@@ -1,5 +1,5 @@
 ### Hello, I am Abhinav Anand, a coding enthusiast.👋
-### I have interest is web development technologies and Machine learning Projects
+### I have interest in web development technologies and Machine learning Projects
 
 
 <!--
